@@ -1,22 +1,18 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi 👋, I'm Brahma Chaitanya S P</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-
+<h1 align="center">Welcome, I'm Brahma Chaitanya S P</h1>
+<h3 align="center">Full Stack Developer passionate about creating seamless digital experiences</h3>
 <img align="right" style="width:40%;" src="https://camo.githubusercontent.com/4a61f6bdb188b3360eee252d06ee1515e1d99b6251fa3f530526744ce300e290/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966" alt="Description of image">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyasp09&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasp09" /> </p>
-
 <p align="left"> <a href="https://twitter.com/spchaitanya_" target="blank"><img src="https://img.shields.io/twitter/follow/spchaitanya_?logo=twitter&style=for-the-badge" alt="spchaitanya_" /></a> </p>
+🌱 Expanding my skills in Project Management to better oversee and deliver projects efficiently.
 
-- 🔭 I’m currently working on **Building a Responsive E-commerce Website**
+👨‍💻 All of my projects are available at https://github.com/Chaitanyasp09/Projects
 
-- 🌱 I’m currently learning **Project Management**
+🎓 I'm a final year student pursuing a degree in Computer Science and Engineering, specializing in IoT. I enjoy solving complex problems and learning new technologies.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chaitanyasp09/Projects](https://github.com/Chaitanyasp09/Projects)
+🛠️ With a strong foundation in both front-end and back-end development, I strive to build user-friendly and efficient applications.
 
-- 📫 How to reach me **spchaitanya09@outlook.com**
-
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+📫 How to reach me spchaitanya09@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -98,5 +94,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
 </p><br>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasp09&" alt="chaitanyasp09" style="display: block; margin: auto;" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasp09&" alt="chaitanyasp09" style="display: block;
