@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Welcome, I'm Brahma Chaitanya S P</h1>
 <h3 align="center">Full Stack Developer passionate about creating seamless digital experiences</h3>
-<img align="right" style="width:40%;" src="https://camo.githubusercontent.com/4a61f6bdb188b3360eee252d06ee1515e1d99b6251fa3f530526744ce300e290/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966" alt="Description of image">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyasp09&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasp09" /> </p>
 <p align="left"> <a href="https://twitter.com/spchaitanya_" target="blank"><img src="https://img.shields.io/twitter/follow/spchaitanya_?logo=twitter&style=for-the-badge" alt="spchaitanya_" /></a> </p>
 🌱 Expanding my skills in Project Management to better oversee and deliver projects efficiently.
@@ -16,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/spchaitanya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spchaitanya_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sp-chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sp-chaitanya" height="30" width="40" /></a>
 <a href="https://instagram.com/spchaitanya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="." height="30" width="40" /></a>
 </p>
